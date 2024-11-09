@@ -3,6 +3,16 @@ entries:
   schednex:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2024-11-09T15:33:28.456149455Z"
+    description: A Helm chart for Kubernetes
+    digest: 4a169bd336e243f5963326c202f132f6631db963a6f3fcf3d57f8c683606e2ef
+    name: schednex
+    type: application
+    urls:
+    - https://charts.schednex.ai/schednex-1.8.0.tgz
+    version: 1.8.0
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2024-10-04T08:24:48.622871239Z"
     description: A Helm chart for Kubernetes
     digest: 50b09831d49062d882abeb0aa678932381f9d3157fffbcbf1b145af4cb606997
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://charts.schednex.ai/schednex-1.0.1.tgz
     version: 1.0.1
-generated: "2024-10-04T08:24:48.62226078Z"
+generated: "2024-11-09T15:33:28.455734803Z"
